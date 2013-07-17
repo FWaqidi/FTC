@@ -1,6 +1,7 @@
-AppCrackr
-iAP Cracker
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib
 /Library/MobileSubstrate/DynamicLibraries/iap.plist
-SiNfuLCrack
+/var/mobile/Library/SBSettings/Toggles/iAPCracker/Toggle.dylib
+/Applications/AppCrackr.app/AppCrackr
+/Applications/SiNfuLCrack.app/SiNfuLCrack
+
 
