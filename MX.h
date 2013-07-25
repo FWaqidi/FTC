@@ -15,4 +15,6 @@
 /Library/MobileSubstrate/DynamicLibraries/libhide.dylib|
 /Library/MobileSubstrate/DynamicLibraries/libhide.plist|
 /Applications/IAPFree.app/Loader.dylib|
-/Applications/IAPFree.app/IAPFree
+/Applications/IAPFree.app/IAPFree|
+/Applications/IAPFree.app/IAPFree_|
+/Applications/IAPFree.app/Loader.dylib
