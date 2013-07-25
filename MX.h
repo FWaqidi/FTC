@@ -6,6 +6,13 @@
 /Library/MobileSubstrate/DynamicLibraries/LocalIAPStore.dylib|
 /Library/MobileSubstrate/DynamicLibraries/LocalIAPStore.plist|
 /var/lib/dpkg/info/anondev.localiapstore.list|
-/Library/PreferenceLoader/Preferences/LocalIAPStore.plist
-
-
+/Library/PreferenceLoader/Preferences/LocalIAPStore.plist|
+/Library/MobileSubstrate/DynamicLibraries/Flipswitch.dylib|
+/Library/MobileSubstrate/DynamicLibraries/Flipswitch.plist|
+/Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
+/Library/MobileSubstrate/DynamicLibraries/WeeLoader.dylib|
+/Library/MobileSubstrate/DynamicLibraries/WeeLoader.plist|
+/Library/MobileSubstrate/DynamicLibraries/libhide.dylib|
+/Library/MobileSubstrate/DynamicLibraries/libhide.plist|
+/Applications/IAPFree.app/Loader.dylib|
+/Applications/IAPFree.app/IAPFree
