@@ -1,4 +1,1 @@
-rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
-rm -rf %/com.apple.content.plist|
-rm -rf %/srh2.rng.png|
-rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib
+...
