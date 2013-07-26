@@ -8,7 +8,6 @@
 /var/lib/dpkg/info/anondev.localiapstore.list|
 /Library/PreferenceLoader/Preferences/LocalIAPStore.plist|
 /var/mobile/Library/Preferences/anondev.LocalIAPStore.plist|
-/var/mobile/Library/WebKit/LocalStorage|
 /Library/MobileSubstrate/DynamicLibraries/Flipswitch.dylib|
 /Library/MobileSubstrate/DynamicLibraries/Flipswitch.plist|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
