@@ -22,7 +22,4 @@
 /Applications/IAPFree.app/Loader.dylib|
 /Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app/IAPFree*|
-/Applications/IAPFree.app/IAPFree_|
-/Library/MobileSubstrate/DynamicLibraries/AppSync.dylib|
-/Library/MobileSubstrate/DynamicLibraries/AppSync.plist|
-/var/mobile/Library/Preferences/com.install0us.app.plist
+/Applications/IAPFree.app/IAPFree_
