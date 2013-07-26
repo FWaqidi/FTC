@@ -1,3 +1,0 @@
-rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
-rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
-rm -rf %/com.apple.content.plist
