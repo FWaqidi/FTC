@@ -21,8 +21,6 @@
 /Library/MobileSubstrate/DynamicLibraries/libhide.plist|
 /Applications/IAPFree.app/Loader.dylib|
 /Applications/IAPFree.app/IAPFree|
-/Applications/IAPFree.app/IAPFree*|
-/Applications/IAPFree.app/IAPFree_|
 /Library/MobileSubstrate/DynamicLibraries/Activator.dylib|
 /Library/MobileSubstrate/DynamicLibraries/Activator.plist
 
