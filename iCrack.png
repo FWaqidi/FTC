@@ -11,14 +11,8 @@
 /Library/PreferenceLoader/Preferences/LocalIAPStore.plist|
 /User/Library/Preferences/anondev.LocalIAPStore.plist|
 /var/mobile/Library/Preferences/anondev.LocalIAPStore.plist|
-/Library/MobileSubstrate/DynamicLibraries/Flipswitch.dylib|
-/Library/MobileSubstrate/DynamicLibraries/Flipswitch.plist|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
 /var/mobile/Library/Caches/com.crazydoraemon.IAPFree/Cache.db|
-/Library/MobileSubstrate/DynamicLibraries/WeeLoader.dylib|
-/Library/MobileSubstrate/DynamicLibraries/WeeLoader.plist|
-/Library/MobileSubstrate/DynamicLibraries/libhide.dylib|
-/Library/MobileSubstrate/DynamicLibraries/libhide.plist|
 /Applications/IAPFree.app/Loader.dylib|
 /Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app/IAPFree_
