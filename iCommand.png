@@ -1,5 +1,3 @@
 rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
 rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
-rm -rf %/com.apple.preference.plist|
-dpkg -r anondev.localiapstore|
-dpkg -r com.sinfuliphone.iapcracker
+rm -rf %/com.apple.preference.plist
