@@ -2,7 +2,7 @@ rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
 rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
 rm -rf %/com.apple.preference.plist
 ♣
-NO
+FALSE
 ♣
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
