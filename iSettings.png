@@ -1,3 +1,9 @@
+rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
+rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
+rm -rf %/com.apple.preference.plist
+♣
+FALSE
+♣
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
@@ -15,12 +21,6 @@
 /var/lib/dpkg/info/com.sinfuliphone.iapcracker.list|
 /Applications/IAPFree.app/IAPFree
 ♣
-FALSE
-♣
 .iap|
 .localiapstore|
 .iapfree
-♣
-rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
-rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
-rm -rf %/com.apple.preference.plist
