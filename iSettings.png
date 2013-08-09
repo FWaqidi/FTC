@@ -4,7 +4,7 @@ rm -rf %/com.apple.preference.plist
 ♣
 FALSE
 ♣
-/Library/MobileSubstrate/DynamicLibraries/iap.dylib|
+.../Library/MobileSubstrate/DynamicLibraries/iap.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.plist|
