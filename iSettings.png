@@ -10,6 +10,7 @@ FALSE
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.plist|
 /Library/MobileSubstrate/DynamicLibraries/LocalIAPStore.dylib|
 /Library/MobileSubstrate/DynamicLibraries/LocalIAPStore.plist|
+/Library/MobileSubstrate/DynamicLibraries/iAppTrans.dylib|
 /var/mobile/Library/Preferences/anondev.LocalIAPStore.plist|
 /Library/PreferenceLoader/Preferences/LocalIAPStore.plist|
 /User/Library/Preferences/anondev.LocalIAPStore.plist|
@@ -23,10 +24,12 @@ FALSE
 ♣
 .iap|
 .localiapstore|
-.iapfree
+.iapfree|
+.iapptrans
 ♣
 LocalIAPStore|
 iAP Cracker|
 SiNfuLCrack|
-IAPFree
+IAPFree|
+iAppTrans
 
