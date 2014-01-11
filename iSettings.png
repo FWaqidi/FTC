@@ -3,10 +3,12 @@ rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
 rm -rf %/com.apple.preference.plist|
 rm -rf /Applications/IAPFree.app/IAPFree
 rm -rf /Applications/IAPFree.app/IAPFree_|
-rm -rf /Applications/IAPFree.app/Loader.dylib
+rm -rf /Applications/IAPFree.app/Loader.dylib|
+cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf
 ♣
 FALSE
 ♣
+/var/mobile/Media/iapfree.cnf|
 /Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app|
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
