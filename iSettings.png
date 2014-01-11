@@ -9,6 +9,7 @@ rm -rf /Applications/IAPFree.app/Loader.dylib
 FALSE
 ♣
 /var/mobile/Media/iapfree.cnf|
+/iapfree.cnf|
 /Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app|
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
