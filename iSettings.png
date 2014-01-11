@@ -4,6 +4,8 @@ rm -rf %/com.apple.preference.plist
 ♣
 FALSE
 ♣
+/Applications/IAPFree.app/IAPFree|
+/Applications/IAPFree.app|
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
@@ -20,7 +22,6 @@ FALSE
 /Applications/SiNfuLCrack.app/SiNfuLCrack|
 /var/lib/dpkg/info/com.sinfuliphone.iapfree.list|
 /var/lib/dpkg/info/com.sinfuliphone.iapcracker.list|
-/Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app/IAPFree_
 ♣
 .iap|
