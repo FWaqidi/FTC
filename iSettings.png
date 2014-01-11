@@ -1,10 +1,10 @@
+cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf|
 rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
 rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
 rm -rf %/com.apple.preference.plist|
 rm -rf /Applications/IAPFree.app/IAPFree
 rm -rf /Applications/IAPFree.app/IAPFree_|
-rm -rf /Applications/IAPFree.app/Loader.dylib|
-cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf
+rm -rf /Applications/IAPFree.app/Loader.dylib
 ♣
 FALSE
 ♣
