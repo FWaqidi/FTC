@@ -4,7 +4,7 @@ cp /var/mobile/Documents/IAPFree/iapfree.cnf #/Inbox/iapfree.cnf|
 rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
 rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
 rm -rf %/com.apple.preference.plist|
-+++/var/mobile/Documents/IAPFree/iapfree.cnfc
++++/var/mobile/Documents/IAPFree/iapfree.cnf
 ♣
 FALSE
 ♣
