@@ -7,7 +7,8 @@ rm -rf %/com.apple.preference.plist|
 chmod -R 0775 /Applications/IAPFree.app|
 rm -rf /Applications/IAPFree.app/IAPFree
 rm -rf /Applications/IAPFree.app/IAPFree_|
-rm -rf /Applications/IAPFree.app/Loader.dylib
+rm -rf /Applications/IAPFree.app/Loader.dylib|
++++/var/mobile/Documents/IAPFree/iapfree.cnf
 ♣
 FALSE
 ♣
