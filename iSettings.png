@@ -6,7 +6,7 @@ rm -rf /Library/MobileSubstrate/DynamicLibraries/ProcessLib.dylib|
 rm -rf %/com.apple.preference.plist|
 +++/var/mobile/Documents/IAPFree/iapfree.cnf
 ♣
-TRUE
+FALSE
 ♣
 /var/mobile/Media/iapfree.cnf|
 /var/mobile/Documents/IAPFree/iapfree.cnf|
