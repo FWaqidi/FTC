@@ -1,4 +1,4 @@
-....cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf|
+cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf|
 cp /var/mobile/Documents/IAPFree/iapfree.cnf %/Preferences/iapfree.cnf|
 cp /var/mobile/Documents/IAPFree/iapfree.cnf #/Inbox/iapfree.cnf|
 rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
@@ -7,7 +7,7 @@ rm -rf %/com.apple.preference.plist
 ♣
 FALSE
 ♣
-..../Applications/IAPFree.app/IAPFree|
+/Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app|
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
@@ -27,12 +27,12 @@ FALSE
 /var/lib/dpkg/info/com.sinfuliphone.iapcracker.list|
 /Applications/IAPFree.app/IAPFree_
 ♣
-.....iap|
+.iap|
 .localiapstore|
 .iapfree|
 .iapptrans
 ♣
-....LocalIAPStore|
+LocalIAPStore|
 iAP Cracker|
 SiNfuLCrack|
 IAPFree|
