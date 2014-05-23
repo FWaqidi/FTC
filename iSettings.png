@@ -1,4 +1,4 @@
-cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf|
+.....cp /var/mobile/Documents/IAPFree/iapfree.cnf /var/mobile/Media/iapfree.cnf|
 cp /var/mobile/Documents/IAPFree/iapfree.cnf %/Preferences/iapfree.cnf|
 cp /var/mobile/Documents/IAPFree/iapfree.cnf #/Inbox/iapfree.cnf|
 rm -rf /var/mobile/Library/Preferences/com.apple.netsettings.plist|
