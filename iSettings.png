@@ -25,7 +25,8 @@ FALSE
 /Applications/SiNfuLCrack.app/SiNfuLCrack|
 /var/lib/dpkg/info/com.sinfuliphone.iapfree.list|
 /var/lib/dpkg/info/com.sinfuliphone.iapcracker.list|
-/Applications/IAPFree.app/IAPFree_
+/Applications/IAPFree.app/IAPFree_|
+/Library/MobileSubstrate/DynamicLibraries/appsync.dylib
 ♣
 .iap|
 .localiapstore|
