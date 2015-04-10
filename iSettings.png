@@ -10,6 +10,7 @@ FALSE
 /Applications/IAPFree.app/IAPFree|
 /Applications/IAPFree.app|
 /Library/MobileSubstrate/DynamicLibraries/iap.dylib|
+/Library/MobileSubstrate/DynamicLibraries/LinkStore.dylib|
 /Library/MobileSubstrate/DynamicLibraries/iap.plist|
 /Library/MobileSubstrate/DynamicLibraries/appsync.dylib|
 /Library/MobileSubstrate/DynamicLibraries/IAPFreeService.dylib|
